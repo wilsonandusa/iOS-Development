@@ -11,7 +11,6 @@
  2. scan()  the peripherals based on service UUID   // didUpadteState()
  3. connect to a peripheral after discovered it     // didDiscoverPeripheral       centralManager?.connectPeripheral
  
- 
  4.
  */
 
